@@ -1,3 +1,15 @@
+
+---
+## 💚 Gostou? Contribua com o projeto
+
+**Teste primeiro.** Use o programa com seus processos, confira os resultados e veja se ele atende ao que você precisa.
+
+Só se você gostou e ele resolveu o seu problema, considere fazer uma contribuição via **PIX**. É totalmente opcional, e qualquer valor ajuda a continuar o desenvolvimento.
+
+**Chave PIX (e-mail):** `antonioaugusto96@gmail.com`
+
+
+---
 # Anonimizador de Processos Jurídicos
 
 Programa gratuito para Windows que **esconde os dados pessoais de processos jurídicos em PDF**: nomes, CPF, RG, endereço, telefone, e-mail, dados bancários e outros. Ajuda a cumprir a LGPD antes de compartilhar um processo ou usá-lo com ferramentas de IA.
